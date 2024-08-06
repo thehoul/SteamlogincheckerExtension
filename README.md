@@ -6,7 +6,7 @@ The extension simply checks every page that you are visiting to see if it is a k
 
 # Development
 
-[August 6th] : the extension is ready to display warning when visiting a fraudulent page. All that is missing is the algorithm to detect such websites (:warning: Therefore, do not use it as it is not detecting anything at the moment...)
+- [August 6th] : the extension is ready to display warning when visiting a fraudulent page. All that is missing is the algorithm to detect such websites (:warning: Therefore, do not use it as it is not detecting anything at the moment...)
 
 # Future development
 
