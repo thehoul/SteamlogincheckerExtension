@@ -8,7 +8,9 @@
     "permissions": ["tabs", "activeTab", "<all_urls>"],
 
     "icons": {
-      "48": "icons/logo.png"
+      "48": "icons/logo48.png",
+      "333": "icons/logo.png"
+
     },
 
     "content_scripts": [
