@@ -49,7 +49,7 @@ function checkTab(tab) {
             }
             resolve(false);
         }).catch((error) => {
-            console.error("Failed to execute content script: " + error);
+            resolve(false);
         });
     });
 }
